@@ -1,2 +1,36 @@
-hola
-mundo
+1,200 exabytes
+The goal of visualization is to aid our understanding of data by leveraging the human visual system's highly tuned ability to see patterns, spot trends, and identify outliers
+graphical perception
+In many situations, simple data graphics will not only suffice, they may also be preferible
+you don't go to the zoo to see Chihuahuas and raccoons; you go to admire the majestic polar bear, the graceful zebra, and the terrifying Sumatran tiger
+all visualizations share a common "DNA"
+With some forms of time-series data, raw values are less important than relative changes
+stacking may make it difficult to accurately interpret trends that lie atop other curves
+data density
+data resolution
+properties of the data
+exploratory data analisis
+Clusters
+Multivariate data 
+picturing data in more than three dimensions
+Reordering dimensions can aid pattern finding
+cartographic projection
+a flow map can depict the movement of a quantity in space and (implicitly) in time
+One common error is to encode raw data values (such as population) rather than using normalized values to produce a density map
+the area directly encodes a data variable
+node-link diagram
+treemap recursively subdivides area into rectangles
+circle-packing layout
+a bridge between disparate groups
+effective layout
+Layout techniques
+graph distance
+edge crossings
+one-dimensional layout of nodes
+seriation
+adjacency matrix
+Using color or saturation instead of text allows values associated with the links to be perceived more rapidly
+the order of rows and columns is important
+clusters and bridges
+the DNA underlying all visualizations remains the same: the principled mapping of data variables to visual features such as position, size, shape, and color. 
+

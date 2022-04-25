@@ -1,4 +1,4 @@
 
-1.[Datos crudos] (dataset.csv)
-2.[Datos de días y meses] (diasYMeses.csv)
-3.[Destinos] (destinos.csv)
+1.[dataset] (dataset.csv)
+2.[diasYMeses] (diasYMeses.csv)
+3.[destinos] (destinos.csv)
